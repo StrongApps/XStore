@@ -7,4 +7,4 @@
 • Файл .apk
 • Псевдоним (можно anonim) 
 <hr>
-cDev WebNight, @2023-20250
+cDev WebNight, @2023-2025
